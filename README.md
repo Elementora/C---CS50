@@ -1,23 +1,48 @@
-🎓 CS50 C Examples
-This repository contains C programming examples from Harvard University's CS50 course. CS50 is an introduction to computer science that teaches computational thinking and problem-solving skills. (cs50.harvard.edu)
+# 🎓 CS50 C Programming Journey
 
-📂 Contents
-The repository includes the following C programs:
+This repository contains my **learning progress** in C programming as part of Harvard's **CS50** course. I'm documenting my exercises, challenges, and concepts I'm practicing while improving my understanding of C.
 
-agree.c: Gets a yes/no response from the user and processes it accordingly.
-calculator.c: Performs basic arithmetic operations.
-compare.c: Compares two values.
-hello.c: Prints "Hello, World!".
-mario.c: Creates a Mario-style pyramid.
-meow.c: Prints "meow" a certain number of times.
-phonebook.c: Implements a simple phonebook.
-population.c: Calculates population growth.
-truncation.c: Truncates decimal numbers.
-🛠️ Usage
-Each file demonstrates a specific programming concept or problem-solving technique. You can study and run these programs to enhance your understanding of C programming.
+## 📂 Contents
 
-📖 About CS50
-CS50 is an introductory computer science course offered by Harvard University. It covers topics such as algorithms, data structures, security, software engineering, and web development. (pll.harvard.edu)
+This repository includes:
 
-📄 License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+- Basic C programs (variables, conditions, loops)
+- Problem-solving exercises (sorting, searching, memory management)
+- CS50-specific challenges (Mario pyramid, credit card validator, population growth)
+
+## 🚀 Running the Programs
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Elementora/C---CS50.git
+   cd C---CS50
+   ```
+2. **Compile a C program**:
+   ```bash
+   gcc program_name.c -o program_name
+   ```
+3. **Run the compiled program**:
+   ```bash
+   ./program_name
+   ```
+
+## 📖 My Learning Goals
+
+- Understanding C basics and syntax ✅
+- Practicing loops, conditions, and functions ✅
+- Exploring data structures ⏳
+- Learning memory management ⏳
+- Working with file handling ❌
+
+## 🏆 Why This Repository?
+
+I'm using this repository to **track my learning progress** and store code for future reference. If you're also learning C, feel free to explore!
+
+## 📄 License
+
+This project is for learning purposes and is licensed under the **MIT License**.
+
+---
+
+💡 **Learning never stops! This is my journey through CS50 and C programming.** 🚀
+
